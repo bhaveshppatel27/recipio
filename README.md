@@ -1,4 +1,4 @@
-# recipio
+# recipio (Won at second place at Bridgehacs 2016 Hackathon)
 
 A voice-activated cooking assistant app.
 
